@@ -11,7 +11,7 @@ setuptools.setup(
     description="Investigate consistency and dirtiness of a pandas DataFrame",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/umLu/youtubeinfo",
+    url="https://github.com/umLu/pdcheckers",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
