@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/umLu/pdcheckers/main/pdcheckers.png" width="350" alt="PdCheckers logo">
+
 # PdCheckers
 
 Tool to investigate consistency and dirtiness of a pandas DataFrame
