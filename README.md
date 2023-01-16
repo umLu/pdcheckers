@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/umLu/pdcheckers/main/pdcheckers.png" width="350" alt="PdCheckers logo">
+<img src="https://raw.githubusercontent.com/umLu/pdcheckers/main/pdcheckers.png" width="200" alt="PdCheckers logo">
 
 # PdCheckers
 
